@@ -1,3 +1,3 @@
-from Prediction import create_app
+from PPT_Prediction import create_app
 
 app = create_app()
